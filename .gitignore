@@ -1,0 +1,25 @@
+# локальні тестові/вивідні теки
+/input/
+/dist/
+
+# кеші й тимчасові файли Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# локальні середовища
+.venv/
+venv/
+.env
+
+# IDE/OS сміття (безпечно ігнорувати)
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# логи/тимчасові
+*.log
+*.tmp
+*.swp
